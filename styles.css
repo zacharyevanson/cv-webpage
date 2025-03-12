@@ -1,0 +1,42 @@
+.heading {
+    color: darkslategray;
+    font-family: 'Times New Roman';
+    font-weight: lighter;
+}
+
+#title-name {
+    font-weight: bold;
+    margin-bottom: 0;
+    color: darkslategray;
+}
+
+h3 {
+    margin-top: 0;
+    margin-bottom: 50;
+    color: black;
+    font-weight: lighter;
+}
+
+p {color: #2A2D31;}
+
+body {
+    background-color: ivory;
+    min-height: 100vh;
+}
+
+form {display: table;}
+label {display: table-cell;}
+input {display: table-cell;}
+
+.input-field {display: table-row}
+
+#skills-list {
+    font-size: large;
+    font-weight: bolder;
+    color:#2A2D31;
+    font-family: 'Times New Roman';
+}
+
+a {color: blue;}
+a:hover {color: darkblue;}
+a:active {color:purple}
